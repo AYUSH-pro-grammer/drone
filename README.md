@@ -1,7 +1,7 @@
 # GridDrishti 🚁⚡
 **Low-cost AI drone inspection for power lines, feeders and substations**
 
-Submission for **TISC 2026 (Telangana Innovation Startup Challenge), Challenge 09: Drone Based Monitoring** (Energy Department).
+By **The Burnouts** (Newton School of Technology, Bengaluru). Submission for **TISC 2026 (Telangana Innovation Startup Challenge), Challenge 09: Drone Based Monitoring** (Energy Department).
 
 <p align="center">
   <img src="media/flight_demo_5s.gif" width="560" alt="Our drone taking off, circled in each frame">
@@ -116,13 +116,13 @@ Full wiring, flashing and bench-test steps are in **[docs/SETUP.md](docs/SETUP.m
 
 Test only over open ground or on a mock pole. **Never fly near live lines** without the utility's permission and a safe stand-off distance. The drone is under 2 kg (micro category under India's Drone Rules 2021). Commercial use needs Digital Sky registration and a certified remote pilot. Run the custom flight controller **with props off** until every bench check in `docs/SETUP.md` passes.
 
-## Team
+## Team: The Burnouts
 
-| Name | Role |
-|---|---|
-| [Name] | [Drone build and flight controller] |
-| [Name] | [AI and computer vision] |
-| [Name] | [Ground station software] |
-| [Name] | [Field testing and outreach] |
+Newton School of Technology, Bengaluru (S-VYASA) · Contact: **ayushpro1428@gmail.com**
+
+| | Member | Role | Highlights | Links |
+|---|---|---|---|---|
+| <img src="images/team_ayush.jpg" width="90"> | **Ayush Kumar** | Hardware & flight control | B.Tech CSE. Built ESP32 (double-loop PID, sensor fusion) and STM32F405 flight controllers from scratch. 26 hardware projects, 400+ hours, Hack Club-approved PCBs. | [GitHub](https://github.com/AYUSH-pro-grammer) · [LinkedIn](https://www.linkedin.com/in/ayushpro1428/) · [Portfolio](https://ayushpro1428.tech) |
+| <img src="images/team_divyanshu.jpg" width="90"> | **Divyanshu Prakash** | Autonomy & software | ISRO IRoC-U semifinalist with an autonomous drone built for GPS-denied environments. Kubernetes contributor. | [GitHub](https://github.com/divyanshuprakas-h) · [LinkedIn](https://www.linkedin.com/in/divyanshuprakas-h/) |
 
 📄 Pitch deck: [`docs/GridDrishti_Pitch_Deck.pdf`](docs/GridDrishti_Pitch_Deck.pdf)
