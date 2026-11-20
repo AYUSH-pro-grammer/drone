@@ -127,6 +127,7 @@ Newton School of Technology, Bengaluru (S-VYASA) · Contact: **ayushpro1428@gmai
 |---|---|---|---|---|
 | <img src="images/team_ayush.jpg" width="90"> | **Ayush Kumar** | Hardware & flight control | B.Tech CSE. Built ESP32 (double-loop PID, sensor fusion) and STM32F405 flight controllers from scratch. 26 hardware projects, 400+ hours, Hack Club-approved PCBs. | [GitHub](https://github.com/AYUSH-pro-grammer) · [LinkedIn](https://www.linkedin.com/in/ayushpro1428/) · [Portfolio](https://ayushpro1428.tech) |
 | <img src="images/team_divyanshu.jpg" width="90"> | **Divyanshu Prakash** | Autonomy & software | ISRO IRoC-U semifinalist with an autonomous drone built for GPS-denied environments. Kubernetes contributor. | [GitHub](https://github.com/divyanshuprakas-h) · [LinkedIn](https://www.linkedin.com/in/divyanshuprakas-h/) |
+| <img src="images/team_rithull.jpg" width="90"> | **Rithull Raj Kallat** | AI/ML & open source | CSE (AI & ML). Smart India Hackathon (SIH) 2025 Grand Finalist. openSUSE member and Open Build Service contributor. | [GitHub](https://github.com/rithullkallat-ctrl) · [LinkedIn](https://www.linkedin.com/in/rithull-raj-kallat/) |
 
 📄 Pitch deck: [`docs/GridDrishti_Pitch_Deck.pdf`](docs/GridDrishti_Pitch_Deck.pdf) · 📝 [TISC application text](docs/TISC_application.md)
 
