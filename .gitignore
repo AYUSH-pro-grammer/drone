@@ -17,3 +17,6 @@ test_flight.mp4
 
 # Arduino build output
 build/
+
+# Old nested git folder moved out of ground_station (safe to delete)
+_to_delete/

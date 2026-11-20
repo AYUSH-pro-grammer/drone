@@ -82,10 +82,13 @@ ground_station/            Python app: detection, severity ranking, map, CSV
 esp32_cam_stream/          ESP32-CAM sketch: live MJPEG video over Wi-Fi
 esp32_telemetry/           ESP32 sketch: GPS + MLX90640 thermal → UDP
 esp32_flight_controller/   Our own flight controller (ESP32 + MPU6050), bench prototype
-media/                     Flight demo GIF and clip
-images/                    Build photos
-docs/                      Pitch deck and full setup guide
+media/                     5-second flight GIF and clip (drone circled)
+video/                     Full flight test video
+images/                    Build and team photos
+docs/                      Setup guide, TISC application text, pitch deck
 ```
+
+Each code folder has its own `README.md` with wiring and run steps.
 
 ## Quick start (no hardware needed)
 
@@ -125,4 +128,8 @@ Newton School of Technology, Bengaluru (S-VYASA) · Contact: **ayushpro1428@gmai
 | <img src="images/team_ayush.jpg" width="90"> | **Ayush Kumar** | Hardware & flight control | B.Tech CSE. Built ESP32 (double-loop PID, sensor fusion) and STM32F405 flight controllers from scratch. 26 hardware projects, 400+ hours, Hack Club-approved PCBs. | [GitHub](https://github.com/AYUSH-pro-grammer) · [LinkedIn](https://www.linkedin.com/in/ayushpro1428/) · [Portfolio](https://ayushpro1428.tech) |
 | <img src="images/team_divyanshu.jpg" width="90"> | **Divyanshu Prakash** | Autonomy & software | ISRO IRoC-U semifinalist with an autonomous drone built for GPS-denied environments. Kubernetes contributor. | [GitHub](https://github.com/divyanshuprakas-h) · [LinkedIn](https://www.linkedin.com/in/divyanshuprakas-h/) |
 
-📄 Pitch deck: [`docs/GridDrishti_Pitch_Deck.pdf`](docs/GridDrishti_Pitch_Deck.pdf)
+📄 Pitch deck: [`docs/GridDrishti_Pitch_Deck.pdf`](docs/GridDrishti_Pitch_Deck.pdf) · 📝 [TISC application text](docs/TISC_application.md)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
