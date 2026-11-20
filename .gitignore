@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ground station run outputs
+runs/
+ground_station/runs/
+ground_station/test.mp4
+test_flight.mp4
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Arduino build output
+build/
